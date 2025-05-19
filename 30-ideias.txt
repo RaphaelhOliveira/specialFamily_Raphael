@@ -1,0 +1,30 @@
+1- criar cadastro
+2-criar login
+3-criar barra de pesquisa
+4-criar doação
+5-criar comunidade
+6-criar comentarios
+7-criar post
+8-criar editor de perfil
+9-criar eventos
+10-criar guia de navegação
+11-criar compartilhar sua historia
+12-criar foruns
+13-criar noticias
+14-criar noticias
+15-criar responsividade
+16-criar avaliaciações 
+17-criar filtro
+18-criar tag
+19-criar recursos
+20-criar recomendações
+21-criar sistema de curtidas de comentarios
+22-criar sistema de membros para a criação
+23-criar configurações adicioamis 
+24-criar sistema de verificação
+25-criar dicas
+26-criar sistema de membros vips
+27-criar sistema de exclusão de conta
+28-criar sistemas de profissionais
+29-criar area do adm
+30-criar sistema de agendamentos
